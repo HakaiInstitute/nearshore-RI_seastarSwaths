@@ -1,25 +1,39 @@
 # Changelog
-
 All notable changes to this project will be documented in this file.
 
-## [0.0.1] - yyyy-mm-dd
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning]
+(https://semver.org/spec/v2.0.0.html).
 
-Summary
+## Unreleased
 
-### Added
+## [3.1.0] - 2024-01-26
+### Updated
+- README file
+- Added "effective_tide_height" column to survey data. Updated survey data up to November 2023.
+- Updated Data Dictionary with above column changes.
 
-*
-* 
-*
-
-### Fixed
-
-* 
-
-### Changed
-
-*
+## [3.0.0] - 2023-01-19
+### Updated
+- README file
+- Removed "taxon_code" column from survey data and added "scientific_name" and
+"description" columns. Added survey data up to November 2022.
+- Updated Data Dictionary with above column changes.
 
 ### Removed
+- Removed Rocky Intertidal Taxa datasheet.
 
-*
+## [2.0.0] - 2022-01-11
+### Updated
+- README file
+- Added "start_time" and "end_time" columns to survey data
+- Added survey data up to November 2021
+
+## [1.0.0] - 2020-03-17
+### Added
+- Creative Commons license
+- README file
+- Overall Rocky Intertidal protocol
+- Data Dictionary
+- Seastar & Macroinvertebrate Monitoring Survey data (2017-)
+- Rocky intertidal taxon codes

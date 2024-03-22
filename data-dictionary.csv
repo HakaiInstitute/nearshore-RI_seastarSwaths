@@ -1,1 +1,17 @@
-variable,long_name,units,standard_name,comment
+table,variable,category,units,description
+seastar_macroinverts-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
+seastar_macroinverts-surveys.csv,site,character,NA,Rocky intertidal site where survey was conducted
+seastar_macroinverts-surveys.csv,observer,character,NA,The individual(s) who conducted the survey
+seastar_macroinverts-surveys.csv,start_time,date,00(hr):00(m),The time (24hr clock) when the survey was begun
+seastar_macroinverts-surveys.csv,end_time,date,00(hr):00(m),The time (24hr clock) when the survey was completed
+seastar_macroinverts-surveys.csv,tide_height_at_sampling_time,numeric,m,The tide height at the time the survey was started
+seastar_macroinverts-surveys.csv,effective_tide_height,numeric,m,The effective tide height at the time the survey was started (due to swell and wind)
+seastar_macroinverts-surveys.csv,scientific_name,character,NA,Taxonomic name for a given taxon code
+seastar_macroinverts-surveys.csv,description,character,NA,"Common vernacular description of what a given code represents (i.e. acorn barnacle, dead acorn barnacle)"
+seastar_macroinverts-surveys.csv,life_stage,character,NA,Life stage category for observed Pisaster ochraceous
+seastar_macroinverts-surveys.csv,disease_status,character,NA,Category reflecting healthiness or stage of wasting disease
+seastar_macroinverts-surveys.csv,size,numeric,mm,Size category
+seastar_macroinverts-surveys.csv,count,numeric,NA,The number of individuals of a given size category in the swath
+seastar_macroinverts-surveys.csv,entered_by,character,NA,The individual(s) who entered the data into the spreadsheet
+seastar_macroinverts-surveys.csv,checked_by,character,NA,The individual(s) who quality controlled the data
+seastar_macroinverts-surveys.csv,notes,character,NA,Records anything of note about a given observation
