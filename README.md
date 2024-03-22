@@ -12,7 +12,7 @@ In light of the effort required to create data packages, we request that in addi
 Reference Citation
 ```
 Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2023). 
-Seastar & macroinvertebrate dynamics surveys from BC Central Coast, 2017-2023. 
+Seastar & macroinvertebrate dynamics surveys from BC Central Coast, 2018-2023. 
 Hakai Institute dataset. V3.1.0 [access date]
 ```
 
@@ -27,7 +27,7 @@ https://docs.google.com/document/d/11uqZNnwSabw0thcbntlTkZpVgVAkjPDJS17_ur6W7S8/
 
 This data package collects data and information relating to seastar 
 population surveys conducted in the rocky intertidal of Calvert Island BC, 
-starting in 2017. Counts and size measurements of sea stars and large macroinvertebrates were done in irregular plots at each site. For a detailed description, please see the Rocky Intertidal protocol contained in this dataset.
+starting in 2018. Counts and size measurements of sea stars and large macroinvertebrates were done in irregular plots at each site. For a detailed description, please see the Rocky Intertidal protocol contained in this dataset.
 
 ## Resources
 
