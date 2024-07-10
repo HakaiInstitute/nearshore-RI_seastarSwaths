@@ -11,7 +11,7 @@ In light of the effort required to create data packages, we request that in addi
 
 Reference Citation
 ```
-Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., & Gehman, A. (2022).
+Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., & Gehman, A. (2023).
 Seastar & Macroinvertebrate Dynamics: BC Central Coast (v3.1.0)
 [Data set]. https://doi.org/10.21966/5n09-aq76
 ```
