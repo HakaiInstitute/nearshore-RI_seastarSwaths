@@ -11,9 +11,9 @@ In light of the effort required to create data packages, we request that in addi
 
 Reference Citation
 ```
-Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2023). 
-Seastar & macroinvertebrate dynamics surveys from BC Central Coast, 2018-2023. 
-Hakai Institute dataset. V3.1.0 [access date]
+Froese, T., Sadlier-Brown, G., Hessing-Lewis, M., & Gehman, A. (2022).
+Seastar & Macroinvertebrate Dynamics: BC Central Coast (v3.1.0)
+[Data set]. https://doi.org/10.21966/5n09-aq76
 ```
 
 ## Summary
