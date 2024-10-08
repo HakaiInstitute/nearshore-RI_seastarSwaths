@@ -10,7 +10,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-02-14,Fifth Beach,GSB/BMM/TF/DVM/ER,06:20:00,NA,0.9,NA,Katharina tunicata,Leather chiton,NA,0,NA,298,GSB,TF,NA
 2018-02-14,Fifth Beach,GSB/BMM/TF/DVM/ER,06:20:00,NA,0.9,NA,Pisaster ochraceus,Ochre star,Adult,0,NA,277,GSB,TF,NA
 2018-02-14,Fifth Beach,GSB/BMM/TF/DVM/ER,06:20:00,NA,0.9,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,165,GSB,TF,30 mins with 5 techs
-2018-02-14,Fifth Beach,GSB/BMM/TF/DVM/ER,06:20:00,NA,0.9,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,1,GSB,TF,NA
+2018-02-14,Fifth Beach,GSB/BMM/TF/DVM/ER,06:20:00,NA,0.9,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,1,GSB,TF,NA
 2018-02-15,North Beach,GSB/BMM,06:00:00,NA,0.8,NA,Katharina tunicata,Leather chiton,NA,0,30,2,GSB,TF,NA
 2018-02-15,North Beach,GSB/BMM,06:00:00,NA,0.8,NA,Katharina tunicata,Leather chiton,NA,0,40,3,GSB,TF,NA
 2018-02-15,North Beach,GSB/BMM,06:00:00,NA,0.8,NA,Katharina tunicata,Leather chiton,NA,0,50,4,GSB,TF,NA
@@ -66,11 +66,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,6,GSB,TF,coded as 1 in the field - but further evaluation suggested that reproduction and level 1 wasting were confounded.
 2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,1,NA,4,GSB,TF,coded as 2 in the field - but further evaluation suggested that our criteria for 2 matches level 1 wasting
 2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,GSB,TF,NA
-2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,2,GSB,TF,NA
-2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,25,2,GSB,TF,NA
-2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,4,GSB,TF,NA
-2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,GSB,TF,NA
-2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,29,GSB,TF,NA
+2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,2,GSB,TF,NA
+2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,25,2,GSB,TF,NA
+2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,4,GSB,TF,NA
+2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,GSB,TF,NA
+2018-05-19,West Beach,AG/KH/DVM/ZM,11:00:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,29,GSB,TF,NA
 2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,GSB,TF,NA
 2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Dermasterias imbricata,Leather star,NA,0,30,1,GSB,TF,NA
 2018-05-20,Fifth Beach,KB/DVM,11:20:00,NA,0.6,NA,Katharina tunicata,Leather chiton,NA,0,20,2,GSB,TF,NA
@@ -121,11 +121,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Pisaster ochraceus,Ochre star,Juvenile,4,NA,1,GSB,TF,NA
 2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,15,1,GSB,TF,NA
 2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,GSB,TF,NA
-2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,5,GSB,TF,NA
-2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,GSB,TF,NA
-2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,1,GSB,TF,NA
-2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,1,GSB,TF,NA
-2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,3,GSB,TF,NA
+2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,5,GSB,TF,NA
+2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,GSB,TF,NA
+2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,1,GSB,TF,NA
+2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,1,GSB,TF,NA
+2018-05-20,Fifth Beach,KH/ZM/GSB/KB/DVM/AG,10:40:00,12:00:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,3,GSB,TF,NA
 2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,GSB,TF,NA
 2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,90,1,GSB,TF,NA
 2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,4,GSB,TF,NA
@@ -184,13 +184,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,6,GSB,TF,NA
 2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,2,GSB,TF,NA
 2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,50,2,GSB,TF,NA
-2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,7,GSB,TF,NA
-2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,17,GSB,TF,NA
-2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,13,GSB,TF,NA
-2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,12,GSB,TF,NA
-2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,6,GSB,TF,NA
-2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,GSB,TF,NA
-2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,GSB,TF,NA
+2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,7,GSB,TF,NA
+2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,17,GSB,TF,NA
+2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,13,GSB,TF,NA
+2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,12,GSB,TF,NA
+2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,6,GSB,TF,NA
+2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,GSB,TF,NA
+2018-05-21,North Beach,KH/ZM/GSB/DVM/TP,12:40:00,14:30:00,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,GSB,TF,NA
 2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,130,1,KB,TF,NA
 2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,2,KB,TF,NA
 2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,KB,TF,NA
@@ -232,13 +232,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,16,KB,TF,NA
 2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,18,KB,TF,NA
 2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,81,KB,TF,NA
-2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,6,KB,TF,NA
-2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,5,KB,TF,NA
-2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,8,KB,TF,NA
-2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,4,KB,TF,NA
-2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,KB,TF,NA
-2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,KB,TF,NA
-2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,5,KB,TF,NA
+2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,6,KB,TF,NA
+2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,5,KB,TF,NA
+2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,8,KB,TF,NA
+2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,4,KB,TF,NA
+2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,KB,TF,NA
+2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,KB,TF,NA
+2018-06-14,West Beach,OP/KB/BMM,07:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,5,KB,TF,NA
 2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,KB,TF,NA
 2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,140,1,KB,TF,NA
 2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Dermasterias imbricata,Leather star,NA,0,10,1,KB,TF,NA
@@ -280,10 +280,10 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,KB,TF,NA
 2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,2,KB,TF,NA
 2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,60,1,KB,TF,NA
-2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,KB,TF,NA
-2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,1,KB,TF,NA
-2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,2,KB,TF,NA
-2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,KB,TF,NA
+2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,KB,TF,NA
+2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,1,KB,TF,NA
+2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,2,KB,TF,NA
+2018-06-15,Fifth Beach,KB/BMM,08:47:00,NA,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,KB,TF,NA
 2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,90,1,AG,TF,NA
 2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,95,1,AG,TF,NA
 2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,1,AG,TF,NA
@@ -348,14 +348,14 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,2,AG,TF,NA
 2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,1,AG,TF,NA
 2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,50,1,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,10,3,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,11,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,20,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,26,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,9,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,6,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,AG,TF,NA
-2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,110,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,10,3,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,11,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,20,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,26,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,9,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,6,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,AG,TF,NA
+2018-06-16,North Beach,OP/KH,09:30:00,NA,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,110,AG,TF,NA
 2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,60,1,KB,TF,NA
 2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,70,1,KB,TF,NA
 2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,1,KB,TF,NA
@@ -418,12 +418,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,6,KB,TF,NA
 2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,2,KB,TF,NA
 2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,50,2,KB,TF,NA
-2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,13,KB,TF,NA
-2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,13,KB,TF,NA
-2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,16,KB,TF,NA
-2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,5,KB,TF,NA
-2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,4,KB,TF,NA
-2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,51,KB,TF,NA
+2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,13,KB,TF,NA
+2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,13,KB,TF,NA
+2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,16,KB,TF,NA
+2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,5,KB,TF,NA
+2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,4,KB,TF,NA
+2018-08-11,North Beach,KH/GSB/MHL/MW/AG/KB,07:00:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,51,KB,TF,NA
 2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,60,1,AG,TF,NA
 2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,90,2,AG,TF,NA
 2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,1,AG,TF,NA
@@ -477,11 +477,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Pisaster ochraceus,Ochre star,Juvenile,3,NA,1,AG,TF,NA
 2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Pisaster ochraceus,Ochre star,Juvenile,4,NA,1,AG,TF,NA
 2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,3,AG,TF,NA
-2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,AG,TF,NA
-2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,AG,TF,NA
-2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,3,AG,TF,NA
-2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,3,AG,TF,NA
-2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,AG,TF,NA
+2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,AG,TF,NA
+2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,AG,TF,NA
+2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,3,AG,TF,NA
+2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,3,AG,TF,NA
+2018-08-12,Fifth Beach,KH/GSB/MHL/MW/AG/KB,08:45:00,NA,0.08,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,AG,TF,NA
 2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,AG,TF,NA
 2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,180,1,AG,TF,NA
 2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,190,1,AG,TF,NA
@@ -538,13 +538,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Pisaster ochraceus,Ochre star,Juvenile,4,30,1,AG,TF,NA
 2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,133,AG,TF,NA
 2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Pisaster ochraceus,Ochre star,Juvenile,1,NA,2,AG,TF,NA
-2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,AG,TF,NA
-2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,10,AG,TF,NA
-2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,17,AG,TF,NA
-2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,15,AG,TF,NA
-2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,5,AG,TF,NA
-2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,AG,TF,NA
-2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,1,AG,TF,NA
+2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,AG,TF,NA
+2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,10,AG,TF,NA
+2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,17,AG,TF,NA
+2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,15,AG,TF,NA
+2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,5,AG,TF,NA
+2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,AG,TF,NA
+2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,1,AG,TF,NA
 2018-08-13,West Beach,KH/GSB/MW/AG/DVM/ZM,09:00:00,NA,0.16,NA,NA,NA,NA,0,5,1,AG,TF,Unknown Juvenile star
 2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Dermasterias imbricata,Leather star,NA,0,10,3,AG,TF,NA
 2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Dermasterias imbricata,Leather star,NA,0,20,5,AG,TF,NA
@@ -590,15 +590,15 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-09-11,North Beach,KB/AG/FB,08:22:00,NA,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,2,NA,1,GSB,TF,NA
 2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,2,AG,TF,NA
 2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,50,1,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,10,1,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,2,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,12,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,14,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,9,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,9,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,4,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,2,AG,TF,NA
-2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,15,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,10,1,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,2,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,12,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,14,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,9,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,9,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,4,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,2,AG,TF,NA
+2018-09-11,North Beach,AG/FB/KB,08:22:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,15,AG,TF,NA
 2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,20:57:00,NA,0.8,NA,Katharina tunicata,Leather chiton,NA,0,20,1,AG,GSB,NA
 2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,20:57:00,NA,0.8,NA,Katharina tunicata,Leather chiton,NA,0,30,2,AG,GSB,NA
 2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,20:57:00,NA,0.8,NA,Katharina tunicata,Leather chiton,NA,0,40,6,AG,GSB,NA
@@ -632,8 +632,8 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,08:45:00,NA,0.8,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,279,AG,AG,NA
 2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,08:45:00,NA,0.8,NA,Pisaster ochraceus,Ochre star,Juvenile,1,NA,1,AG,AG,NA
 2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,08:45:00,NA,0.8,NA,Pisaster ochraceus,Ochre star,Juvenile,2,NA,1,AG,AG,NA
-2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,08:45:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,AG,AG,NA
-2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,08:45:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,AG,AG,NA
+2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,08:45:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,AG,AG,NA
+2018-09-12,Fifth Beach,AG/DVM/KH/KB/FB/JC,08:45:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,AG,AG,NA
 2018-09-12,West Beach,AG/FB/KB,07:50:00,NA,0.7,NA,Dermasterias imbricata,Leather star,NA,0,20,1,AG,TF,NA
 2018-09-12,West Beach,AG/FB/KB,07:50:00,NA,0.7,NA,Dermasterias imbricata,Leather star,NA,0,30,1,AG,TF,NA
 2018-09-12,West Beach,AG/FB/KB,07:50:00,NA,0.7,NA,Dermasterias imbricata,Leather star,NA,0,40,1,AG,TF,NA
@@ -836,14 +836,14 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,20,DVM,TF,NA
 2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,84,DVM,TF,NA
 2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,4,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,8,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,6,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,1,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,100,5,DVM,TF,NA
-2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,24,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,4,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,8,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,6,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,1,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,100,5,DVM,TF,NA
+2019-05-18,West Beach,GSB/AG,07:15:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,24,DVM,TF,NA
 2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,15,1,DVM,TF,NA
 2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,30,1,DVM,TF,NA
 2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,3,DVM,TF,NA
@@ -881,13 +881,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,14,DVM,TF,NA
 2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,101,DVM,TF,NA
 2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,2,DVM,TF,NA
-2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,DVM,TF,NA
-2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,DVM,TF,NA
-2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,19,DVM,TF,NA
-2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,9,DVM,TF,NA
-2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,4,DVM,TF,NA
-2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,DVM,TF,NA
-2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,190,DVM,TF,NA
+2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,DVM,TF,NA
+2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,DVM,TF,NA
+2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,19,DVM,TF,NA
+2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,9,DVM,TF,NA
+2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,4,DVM,TF,NA
+2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,DVM,TF,NA
+2019-05-20,North Beach,GSB/AG/KH/LL,08:20:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,190,DVM,TF,NA
 2019-05-21,Fifth Beach,GSB/AG/KH/DVM,09:00:00,NA,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,DVM,TF,NA
 2019-05-21,Fifth Beach,GSB/AG/KH/DVM,09:00:00,NA,0.5,NA,Dermasterias imbricata,Leather star,NA,0,30,1,DVM,TF,NA
 2019-05-21,Fifth Beach,GSB/AG/KH/DVM,09:00:00,NA,0.5,NA,Dermasterias imbricata,Leather star,NA,0,50,1,DVM,TF,NA
@@ -969,9 +969,9 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,284,AG,GSB,NA
 2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,2,AG,GSB,NA
 2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,1,AG,GSB,NA
-2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,AG,GSB,NA
-2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,AG,GSB,NA
-2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,1,AG,GSB,NA
+2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,AG,GSB,NA
+2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,AG,GSB,NA
+2019-06-15,Fifth Beach,GSB/AG/LL/DVM/AG/KB,07:00:00,NA,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,1,AG,GSB,NA
 2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,AG,GSB,NA
 2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,AG,GSB,NA
 2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Dermasterias imbricata,Leather star,NA,0,30,1,AG,GSB,NA
@@ -1013,14 +1013,14 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,16,AG,GSB,NA
 2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,8,AG,GSB,NA
 2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,73,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,2,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,5,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,10,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,15,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,11,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,AG,GSB,NA
-2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,28,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,2,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,5,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,10,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,15,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,11,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,AG,GSB,NA
+2019-06-16,West Beach,WM/AG/LL/DVM/AG/KB,06:17:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,28,AG,GSB,NA
 2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,50,1,NA,GSB,NA
 2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,70,2,NA,GSB,NA
 2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,NA,GSB,NA
@@ -1070,13 +1070,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,23,NA,GSB,NA
 2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,138,NA,GSB,NA
 2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,NA,GSB,NA
-2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,10,1,NA,GSB,NA
-2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,18,NA,GSB,NA
-2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,11,NA,GSB,NA
-2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,5,NA,GSB,NA
-2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,7,NA,GSB,NA
-2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,5,NA,GSB,NA
-2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,NA,GSB,NA
+2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,10,1,NA,GSB,NA
+2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,18,NA,GSB,NA
+2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,11,NA,GSB,NA
+2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,5,NA,GSB,NA
+2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,7,NA,GSB,NA
+2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,5,NA,GSB,NA
+2019-06-17,North Beach,GSB/AG/LL/DVM/AG/KB,06:30:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,NA,GSB,NA
 2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,130,1,AG,GSB/TF,NA
 2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Dermasterias imbricata,Leather star,NA,0,10,1,AG,GSB/TF,NA
 2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Dermasterias imbricata,Leather star,NA,0,20,1,AG,GSB/TF,NA
@@ -1131,11 +1131,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,2,NA,1,AG,GSB/TF,NA
 2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,3,NA,1,AG,GSB/TF,NA
 2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,4,NA,1,AG,GSB/TF,NA
-2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,4,AG,GSB/TF,NA
-2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,7,AG,GSB/TF,NA
-2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,10,AG,GSB/TF,NA
-2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,11,AG,GSB/TF,NA
-2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,13,AG,GSB/TF,NA
+2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,4,AG,GSB/TF,NA
+2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,7,AG,GSB/TF,NA
+2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,10,AG,GSB/TF,NA
+2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,11,AG,GSB/TF,NA
+2019-08-28,West Beach,GSB/AG/KB/KH/TF,05:30:00,NA,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,13,AG,GSB/TF,NA
 2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,60,1,TF,GSB/TF,NA
 2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,2,TF,GSB/TF,NA
 2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,1,TF,GSB/TF,NA
@@ -1191,9 +1191,9 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,2,NA,1,TF,GSB/TF,NA
 2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,3,NA,3,TF,GSB/TF,NA
 2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,4,NA,1,TF,GSB/TF,NA
-2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,3,TF,GSB/TF,NA
-2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,1,TF,GSB/TF,NA
-2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,100,1,TF,GSB/TF,NA
+2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,3,TF,GSB/TF,NA
+2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,1,TF,GSB/TF,NA
+2019-08-29,Fifth Beach,AG/GSB/TF/KB,06:12:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,100,1,TF,GSB/TF,NA
 2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,TF,GSB/TF,NA
 2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,2,TF,GSB/TF,NA
 2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,140,1,TF,GSB/TF,NA
@@ -1272,14 +1272,14 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,2,NA,1,TF,GSB/TF,NA
 2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,3,TF,GSB/TF,NA
 2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,2,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,2,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,7,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,23,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,18,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,16,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,5,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,TF,GSB/TF,NA
-2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,158,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,2,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,7,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,23,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,18,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,16,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,5,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,TF,GSB/TF,NA
+2019-08-30,North Beach,AG/CH/KH/GSB/DVM,06:53:00,NA,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,158,TF,GSB/TF,NA
 2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,2,KH,TF,NA
 2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,1,KH,TF,NA
 2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Dermasterias imbricata,Leather star,NA,0,20,1,KH,TF,NA
@@ -1309,13 +1309,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,10,KH,TF,NA
 2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,32,KH,TF,NA
 2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,23,KH,TF,NA
-2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,12,KH,TF,NA
-2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,25,KH,TF,NA
-2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,21,KH,TF,NA
-2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,5,KH,TF,NA
-2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,KH,TF,NA
-2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,KH,TF,NA
-2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,175,KH,TF,NA
+2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,12,KH,TF,NA
+2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,25,KH,TF,NA
+2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,21,KH,TF,NA
+2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,5,KH,TF,NA
+2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,KH,TF,NA
+2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,KH,TF,NA
+2019-11-24,North Beach,KH/KB/LL/BT,17:04:00,NA,0.8,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,175,KH,TF,NA
 2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Dermasterias imbricata,Leather star,NA,0,40,1,KB,TF,NA
 2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Dermasterias imbricata,Leather star,NA,0,50,1,KB,TF,NA
 2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Dermasterias imbricata,Leather star,NA,0,60,1,KB,TF,NA
@@ -1344,12 +1344,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,1,30,1,KB,TF,NA
 2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,31,KB,TF,NA
 2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,KB,TF,NA
-2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,KB,TF,NA
-2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,KB,TF,NA
-2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,KB,TF,NA
-2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,7,KB,TF,NA
-2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,1,KB,TF,NA
-2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,66,KB,TF,NA
+2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,KB,TF,NA
+2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,KB,TF,NA
+2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,KB,TF,NA
+2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,7,KB,TF,NA
+2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,1,KB,TF,NA
+2019-11-25,West Beach,KB/KH/BT/LL/RN/AM,17:20:00,NA,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,66,KB,TF,NA
 2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,1,KB,TF,NA
 2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,NA,1,KB,TF,NA
 2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Dermasterias imbricata,Leather star,NA,0,30,1,KB,TF,NA
@@ -1375,9 +1375,9 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,2,KB,TF,NA
 2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,8,KB,TF,NA
 2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,32,KB,TF,NA
-2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,KB,TF,NA
-2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,1,KB,TF,NA
-2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,1,KB,TF,NA
+2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,KB,TF,NA
+2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,1,KB,TF,NA
+2019-11-27,Fifth Beach,KH/KB/CO/CM/EJ/LL,18:11:00,NA,0.9,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,1,KB,TF,NA
 2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,60,1,DVM,TF,NA
 2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,90,1,DVM,TF,NA
 2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,1,DVM,TF,NA
@@ -1413,13 +1413,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,2,NA,1,DVM,TF,NA
 2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,DVM,TF,NA
 2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,NA,1,DVM,TF,NA
-2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,3,DVM,TF,NA
-2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,11,DVM,TF,NA
-2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,10,DVM,TF,NA
-2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,14,DVM,TF,NA
-2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,8,DVM,TF,NA
-2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,9,DVM,TF,NA
-2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,428,DVM,TF,NA
+2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,3,DVM,TF,NA
+2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,11,DVM,TF,NA
+2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,10,DVM,TF,NA
+2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,14,DVM,TF,NA
+2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,8,DVM,TF,NA
+2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,9,DVM,TF,NA
+2020-02-09,North Beach,EJ/KH/GSB/TF,18:58:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,428,DVM,TF,NA
 2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,30,5,DVM,TF,NA
 2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,40,1,DVM,TF,NA
 2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,50,7,DVM,TF,NA
@@ -1461,11 +1461,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,68,DVM,TF,NA
 2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,DVM,TF,NA
 2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,1,DVM,TF,NA
-2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,3,DVM,TF,NA
-2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,7,DVM,TF,NA
-2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,4,DVM,TF,NA
-2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,4,DVM,TF,NA
-2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,4,DVM,TF,NA
+2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,3,DVM,TF,NA
+2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,7,DVM,TF,NA
+2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,4,DVM,TF,NA
+2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,4,DVM,TF,NA
+2020-02-10,Fifth Beach,"DVM,GSB,KH,FT,CO",19:30:00,NA,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,4,DVM,TF,NA
 2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,20,1,TF,TF,end time 21:10
 2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,TF,TF,end time 21:10
 2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,NA,6,TF,TF,end time 21:10
@@ -1496,12 +1496,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,45,TF,TF,end time 21:10
 2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Pisaster ochraceus,Ochre star,NA,1,30,1,TF,TF,end time 21:10
 2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Pisaster ochraceus,Ochre star,NA,2,50,1,TF,TF,end time 21:10
-2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,TF,TF,end time 21:10
-2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,TF,TF,end time 21:10
-2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,5,TF,TF,end time 21:10
-2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,2,TF,TF,end time 21:10
-2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,TF,TF,end time 21:10
-2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,57,TF,TF,end time 21:10
+2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,TF,TF,end time 21:10
+2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,TF,TF,end time 21:10
+2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,5,TF,TF,end time 21:10
+2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,2,TF,TF,end time 21:10
+2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,TF,TF,end time 21:10
+2020-02-11,West Beach,"DVM,GSB,KH,FT,RO",20:37:00,21:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,57,TF,TF,end time 21:10
 2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,50,1,DVM,TF/GSB,end time 06:21
 2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,DVM,TF/GSB,end time 06:21
 2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,2,DVM,TF/GSB,end time 06:21
@@ -1536,15 +1536,15 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,4,DVM,TF/GSB,end time 06:21
 2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,10,DVM,TF/GSB,end time 06:21
 2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,33,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,10,4,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,19,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,13,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,9,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,4,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,1,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,1,DVM,TF/GSB,end time 06:21
-2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,91,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,10,4,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,19,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,13,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,9,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,4,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,1,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,1,DVM,TF/GSB,end time 06:21
+2020-06-04,North Beach,"JC, LL, OP, RO",05:40:00,06:21:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,91,DVM,TF/GSB,end time 06:21
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,200,1,DVM,TF/GSB,end time 07:52
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Dermasterias imbricata,Leather star,NA,0,30,2,DVM,TF/GSB,end time 07:52
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Dermasterias imbricata,Leather star,NA,0,50,2,DVM,TF/GSB,end time 07:52
@@ -1575,14 +1575,14 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,5,DVM,TF/GSB,end time 07:52
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,5,DVM,TF/GSB,end time 07:52
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,63,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,3,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,4,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,2,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,6,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,4,DVM,TF/GSB,end time 07:52
-2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,55,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,3,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,4,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,2,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,6,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,4,DVM,TF/GSB,end time 07:52
+2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,55,DVM,TF/GSB,end time 07:52
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus,Unknown Strongylocentrotus sea urchin,NA,0,50,2,DVM,TF/GSB,end time 07:52
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus,Unknown Strongylocentrotus sea urchin,NA,0,60,5,DVM,TF/GSB,end time 07:52
 2020-06-05,West Beach,"DV, LL",07:05:00,07:52:00,0.3,NA,Strongylocentrotus,Unknown Strongylocentrotus sea urchin,NA,0,70,5,DVM,TF/GSB,end time 07:52
@@ -1624,11 +1624,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,22,DVM,TF/GSB,end time 8:13
 2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,57,DVM,TF/GSB,end time 8:13
 2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,DVM,TF/GSB,end time 8:13
-2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,12,DVM,TF/GSB,end time 8:13
-2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,11,DVM,TF/GSB,end time 8:13
-2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,8,DVM,TF/GSB,end time 8:13
-2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,2,DVM,TF/GSB,end time 8:13
-2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,DVM,TF/GSB,end time 8:13
+2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,12,DVM,TF/GSB,end time 8:13
+2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,11,DVM,TF/GSB,end time 8:13
+2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,8,DVM,TF/GSB,end time 8:13
+2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,2,DVM,TF/GSB,end time 8:13
+2020-06-06,Fifth Beach,"DV, LL, JC",07:43:00,08:13:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,DVM,TF/GSB,end time 8:13
 2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,200,1,DVM,TF,end time 7:34
 2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Dermasterias imbricata,Leather star,NA,0,30,1,DVM,TF,end time 7:34
 2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Dermasterias imbricata,Leather star,NA,0,40,1,DVM,TF,end time 7:34
@@ -1684,12 +1684,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Pisaster ochraceus,Ochre star,Adult,4,NA,1,DVM,TF,end time 7:34
 2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,7,DVM,TF,end time 7:34
 2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,46,DVM,TF,end time 7:34
-2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,3,DVM,TF,end time 7:34
-2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,12,DVM,TF,end time 7:34
-2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,25,DVM,TF,end time 7:34
-2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,17,DVM,TF,end time 7:34
-2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,6,DVM,TF,end time 7:34
-2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,4,DVM,TF,end time 7:34
+2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,3,DVM,TF,end time 7:34
+2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,12,DVM,TF,end time 7:34
+2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,25,DVM,TF,end time 7:34
+2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,17,DVM,TF,end time 7:34
+2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,6,DVM,TF,end time 7:34
+2020-08-18,West Beach,"DV, ZM, CP",06:57:00,07:34:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,4,DVM,TF,end time 7:34
 2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,90,3,DVM,TF,end time 8:10
 2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,160,1,DVM,TF,end time 8:10
 2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,DVM,TF,end time 8:10
@@ -1734,12 +1734,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Pisaster ochraceus,Ochre star,Adult,1,NA,3,DVM,TF,end time 8:10
 2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,5,DVM,TF,end time 8:10
 2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,14,DVM,TF,end time 8:10
-2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,18,DVM,TF,end time 8:10
-2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,60,DVM,TF,end time 8:10
-2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,43,DVM,TF,end time 8:10
-2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,26,DVM,TF,end time 8:10
-2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,3,DVM,TF,end time 8:10
-2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,225,DVM,TF,end time 8:10
+2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,18,DVM,TF,end time 8:10
+2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,60,DVM,TF,end time 8:10
+2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,43,DVM,TF,end time 8:10
+2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,26,DVM,TF,end time 8:10
+2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,3,DVM,TF,end time 8:10
+2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,225,DVM,TF,end time 8:10
 2020-08-19,North Beach,"DV, ZM",07:15:00,08:10:00,0.2,NA,Strongylocentrotus,Unknown Strongylocentrotus sea urchin,NA,0,40,1,DVM,TF,end time 8:10
 2020-08-20,Fifth Beach,"AO, ZM, GSB, DVM",08:06:00,08:50:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,GSB,TF,end time 8:50
 2020-08-20,Fifth Beach,"AO, ZM, GSB, DVM",08:06:00,08:50:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,220,1,GSB,TF,end time 8:50
@@ -1811,13 +1811,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,5,GSB,TF,end time 18:57
 2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,4,GSB,TF,end time 18:57
 2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,26,GSB,TF,end time 18:57
-2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,4,GSB,TF,end time 18:57
-2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,6,GSB,TF,end time 18:57
-2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,24,GSB,TF,end time 18:57
-2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,23,GSB,TF,end time 18:57
-2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,15,GSB,TF,end time 18:57
-2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,11,GSB,TF,end time 18:57
-2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,233,GSB,TF,end time 18:57
+2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,4,GSB,TF,end time 18:57
+2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,6,GSB,TF,end time 18:57
+2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,24,GSB,TF,end time 18:57
+2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,23,GSB,TF,end time 18:57
+2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,15,GSB,TF,end time 18:57
+2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,11,GSB,TF,end time 18:57
+2020-11-15,North Beach,"DVM, OP",18:15:00,18:57:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,233,GSB,TF,end time 18:57
 2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,130,1,TF,TF,end time 19:35
 2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,200,1,TF,TF,end time 19:35
 2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Dermasterias imbricata,Leather star,NA,0,80,1,TF,TF,end time 19:35
@@ -1844,10 +1844,10 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,4,TF,TF,end time 19:35
 2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,4,TF,TF,end time 19:35
 2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,127,TF,TF,end time 19:35
-2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,3,TF,TF,end time 19:35
-2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,2,TF,TF,end time 19:35
-2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,2,TF,TF,end time 19:35
-2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,14,TF,TF,end time 19:35
+2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,3,TF,TF,end time 19:35
+2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,2,TF,TF,end time 19:35
+2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,2,TF,TF,end time 19:35
+2020-11-16,Fifth Beach,"DVM, OP, TF, GSB",19:15:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,14,TF,TF,end time 19:35
 2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,160,1,DVM,TF,end time 21:00
 2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,DVM,TF,end time 21:00
 2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,180,1,DVM,TF,end time 21:00
@@ -1882,11 +1882,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,15,DVM,TF,end time 21:00
 2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,18,DVM,TF,end time 21:00
 2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,29,DVM,TF,end time 21:00
-2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,1,DVM,TF,end time 21:00
-2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,1,DVM,TF,end time 21:00
-2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,DVM,TF,end time 21:00
-2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,1,DVM,TF,end time 21:00
-2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,47,DVM,TF,end time 21:00
+2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,1,DVM,TF,end time 21:00
+2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,1,DVM,TF,end time 21:00
+2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,DVM,TF,end time 21:00
+2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,1,DVM,TF,end time 21:00
+2020-11-17,West Beach,"DVM, OP, TF, GSB",19:47:00,21:00:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,47,DVM,TF,end time 21:00
 2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,TF,TF,NA
 2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Dermasterias imbricata,Leather star,NA,0,20,3,TF,TF,NA
 2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Dermasterias imbricata,Leather star,NA,0,30,3,TF,TF,NA
@@ -1916,11 +1916,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,1,TF,TF,NA
 2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,3,TF,TF,NA
 2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,3,TF,TF,NA
-2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,TF,TF,NA
-2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,10,TF,TF,NA
-2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,9,TF,TF,NA
-2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,9,TF,TF,NA
-2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,159,TF,TF,NA
+2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,TF,TF,NA
+2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,10,TF,TF,NA
+2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,9,TF,TF,NA
+2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,9,TF,TF,NA
+2021-02-09,North Beach,"AG,TF,GSB,DVM",17:06:00,17:25:00,0.6,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,159,TF,TF,NA
 2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,40,1,TF,TF,NA
 2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,TF,TF,NA
 2021-02-10,Fifth Beach,GSB,17:50:00,18:00:00,0.5,NA,Katharina tunicata,Leather chiton,NA,0,10,1,TF,TF,NA
@@ -1946,13 +1946,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,14,TF,TF,NA
 2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,TF,TF,NA
 2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,1,TF,TF,NA
-2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,2,TF,TF,NA
-2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,TF,TF,NA
-2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,6,TF,TF,NA
-2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,6,TF,TF,NA
-2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,7,TF,TF,NA
-2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,4,TF,TF,NA
-2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,5,TF,TF,NA
+2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,2,TF,TF,NA
+2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,TF,TF,NA
+2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,6,TF,TF,NA
+2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,6,TF,TF,NA
+2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,7,TF,TF,NA
+2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,4,TF,TF,NA
+2021-02-10,Fifth Beach,"AG,TF,GSB,DVM",18:00:00,18:45:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,5,TF,TF,NA
 2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,TF,TF,NA
 2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,TF,TF,NA
 2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Dermasterias imbricata,Leather star,NA,0,50,1,TF,TF,NA
@@ -1990,11 +1990,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,2,20,1,TF,TF,NA
 2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,11,TF,TF,NA
 2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,16,TF,TF,NA
-2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,8,TF,TF,NA
-2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,11,TF,TF,NA
-2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,10,TF,TF,NA
-2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,TF,TF,NA
-2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,91,TF,TF,NA
+2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,8,TF,TF,NA
+2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,11,TF,TF,NA
+2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,10,TF,TF,NA
+2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,TF,TF,NA
+2021-02-11,West Beach,"GSB,AG",18:35:00,19:04:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,91,TF,TF,NA
 2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,130,1,KH,TF,NA
 2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,140,1,KH,TF,NA
 2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,2,KH,TF,NA
@@ -2051,12 +2051,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,15,ZM,TF,NA
 2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,2,20,1,ZM,TF,NA
 2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,1,ZM,TF,NA
-2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,3,KH,TF,NA
-2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,6,KH,TF,NA
-2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,11,KH,TF,NA
-2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,16,KH,TF,NA
-2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,9,KH,TF,NA
-2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,326,KH,TF,NA
+2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,3,KH,TF,NA
+2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,6,KH,TF,NA
+2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,11,KH,TF,NA
+2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,16,KH,TF,NA
+2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,9,KH,TF,NA
+2021-05-27,North Beach,"GSB, KH, ZM, AG, MW",08:15:00,09:11:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,326,KH,TF,NA
 2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,KH,TF,NA
 2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Dermasterias imbricata,Leather star,NA,0,30,1,KH,TF,NA
 2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Dermasterias imbricata,Leather star,NA,0,40,3,KH,TF,NA
@@ -2090,9 +2090,9 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,1,KH,TF,NA
 2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,3,KH,TF,NA
 2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,28,KH,TF,NA
-2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,KH,TF,NA
-2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,KH,TF,NA
-2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,2,KH,TF,NA
+2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,KH,TF,NA
+2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,KH,TF,NA
+2021-05-29,Fifth Beach,"KH, DVM, ZM, AG",10:03:00,10:38:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,2,KH,TF,NA
 2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,10,1,KH,TF,NA
 2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,1,KH,TF,NA
 2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Dermasterias imbricata,Leather star,NA,0,60,1,KH,TF,NA
@@ -2124,10 +2124,10 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,2,KH,TF,NA
 2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,3,KH,TF,NA
 2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,16,KH,TF,NA
-2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,7,KH,TF,NA
-2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,13,KH,TF,NA
-2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,14,KH,TF,NA
-2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,14,KH,TF,NA
+2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,7,KH,TF,NA
+2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,13,KH,TF,NA
+2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,14,KH,TF,NA
+2021-05-30,West Beach,"DVM, GSB, KH, ZM",11:00:00,11:14:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,14,KH,TF,NA
 2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,220,1,FM,TF,NA
 2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Dermasterias imbricata,Leather star,NA,0,40,3,FM,TF,NA
 2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Dermasterias imbricata,Leather star,NA,0,50,3,FM,TF,NA
@@ -2165,13 +2165,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Pisaster ochraceus,Ochre star,NA,0,120,1,FM,TF,NA
 2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Pisaster ochraceus,Ochre star,NA,0,130,1,FM,TF,NA
 2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Pisaster ochraceus,Ochre star,NA,0,140,1,FM,TF,NA
-2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,FM,TF,NA
-2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,4,FM,TF,NA
-2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,3,FM,TF,NA
-2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,FM,TF,NA
-2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,FM,TF,NA
-2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,1,FM,TF,NA
-2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,81,FM,TF,NA
+2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,FM,TF,NA
+2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,4,FM,TF,NA
+2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,3,FM,TF,NA
+2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,FM,TF,NA
+2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,FM,TF,NA
+2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,1,FM,TF,NA
+2021-06-25,West Beach,"AC,TF,GSB,FM",07:45:00,08:28:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,81,FM,TF,NA
 2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,180,1,TF,TF,NA
 2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Dermasterias imbricata,Leather star,NA,0,20,1,TF,TF,NA
 2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Dermasterias imbricata,Leather star,NA,0,40,1,TF,TF,NA
@@ -2199,9 +2199,9 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,1,TF,TF,NA
 2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,12,TF,TF,NA
 2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,16,TF,TF,NA
-2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,1,TF,TF,NA
-2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,TF,TF,NA
-2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,2,TF,TF,NA
+2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,1,TF,TF,NA
+2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,TF,TF,NA
+2021-06-26,Fifth Beach,"AC,TF,GSB,FM",08:30:00,09:35:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,2,TF,TF,NA
 2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,140,1,TF,TF,NA
 2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,TF,TF,NA
 2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,170,1,TF,TF,NA
@@ -2255,12 +2255,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,18,TF,TF,NA
 2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,49,TF,TF,NA
 2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,TF,TF,NA
-2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,3,TF,TF,NA
-2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,10,TF,TF,NA
-2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,10,TF,TF,NA
-2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,12,TF,TF,NA
-2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,6,TF,TF,NA
-2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,384,TF,TF,NA
+2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,3,TF,TF,NA
+2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,10,TF,TF,NA
+2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,10,TF,TF,NA
+2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,12,TF,TF,NA
+2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,6,TF,TF,NA
+2021-06-27,North Beach,"AC,TF,GSB,FM",08:26:00,09:50:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,384,TF,TF,NA
 2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Dermasterias imbricata,Leather star,NA,0,30,3,TF,TF,NA
 2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Dermasterias imbricata,Leather star,NA,0,40,4,TF,TF,NA
 2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Dermasterias imbricata,Leather star,NA,0,50,5,TF,TF,NA
@@ -2297,13 +2297,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,2,TF,TF,NA
 2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,18,TF,TF,NA
 2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,11,TF,TF,NA
-2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,TF,TF,NA
-2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,2,TF,TF,NA
-2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,6,TF,TF,NA
-2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,3,TF,TF,NA
-2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,TF,TF,NA
-2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,1,TF,TF,NA
-2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,93,TF,TF,NA
+2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,TF,TF,NA
+2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,2,TF,TF,NA
+2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,6,TF,TF,NA
+2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,3,TF,TF,NA
+2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,TF,TF,NA
+2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,1,TF,TF,NA
+2021-08-20,West Beach,"AC,TF,GSB,RS",06:24:00,07:40:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,93,TF,TF,NA
 2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,200,1,AC,TF,NA
 2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Dermasterias imbricata,Leather star,NA,0,20,1,AC,TF,NA
 2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Dermasterias imbricata,Leather star,NA,0,30,8,AC,TF,NA
@@ -2342,14 +2342,14 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,20,TF,TF,NA
 2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,41,AC,TF,NA
 2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,40,1,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,3,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,4,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,3,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,4,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,5,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,2,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,2,AC,TF,NA
-2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,1,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,3,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,4,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,3,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,4,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,5,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,2,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,2,AC,TF,NA
+2021-08-21,Fifth Beach,"AC,TF,GSB,RS",07:06:00,08:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,1,AC,TF,NA
 2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,220,1,TF,TF,NA
 2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,NA,4,TF,TF,NA
 2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Dermasterias imbricata,Leather star,NA,0,20,3,TF,TF,NA
@@ -2401,13 +2401,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,4,TF,TF,NA
 2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,4,TF,TF,NA
 2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,79,TF,TF,NA
-2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,5,TF,TF,NA
-2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,8,TF,TF,NA
-2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,6,TF,TF,NA
-2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,8,TF,TF,NA
-2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,TF,TF,NA
-2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,TF,TF,NA
-2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,547,TF,TF,NA
+2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,5,TF,TF,NA
+2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,8,TF,TF,NA
+2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,6,TF,TF,NA
+2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,8,TF,TF,NA
+2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,TF,TF,NA
+2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,TF,TF,NA
+2021-08-23,North Beach,"AC,TF,GSB,RS",07:33:00,09:10:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,547,TF,TF,NA
 2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,TF,TF,NA
 2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Dermasterias imbricata,Leather star,NA,0,40,2,TF,TF,NA
 2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Haliotis kamtschatkana,Northern abalone,NA,0,NA,1,TF,TF,NA
@@ -2436,13 +2436,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,4,TF,TF,NA
 2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,14,TF,TF,NA
 2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,45,TF,TF,NA
-2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,4,TF,TF,NA
-2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,5,TF,TF,NA
-2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,5,TF,TF,NA
-2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,9,TF,TF,NA
-2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,6,TF,TF,NA
-2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,TF,TF,NA
-2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,116,TF,TF,NA
+2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,4,TF,TF,NA
+2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,5,TF,TF,NA
+2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,5,TF,TF,NA
+2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,9,TF,TF,NA
+2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,6,TF,TF,NA
+2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,TF,TF,NA
+2021-11-05,North Beach,"TF,DVM,GSB,KH",19:24:00,19:35:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,116,TF,TF,NA
 2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,TF,TF,NA
 2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,140,1,DVM,TF,NA
 2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,DVM,TF,NA
@@ -2473,12 +2473,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,13,DVM,TF,NA
 2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,17,DVM,TF,NA
 2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,27,DVM,TF,NA
-2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,DVM,TF,NA
-2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,4,DVM,TF,NA
-2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,10,DVM,TF,NA
-2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,8,DVM,TF,NA
-2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,3,DVM,TF,NA
-2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,14,DVM,TF,NA
+2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,DVM,TF,NA
+2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,4,DVM,TF,NA
+2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,10,DVM,TF,NA
+2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,8,DVM,TF,NA
+2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,3,DVM,TF,NA
+2021-11-06,Fifth Beach,"TF,DVM,GSB,KH",20:51:00,21:29:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,14,DVM,TF,NA
 2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Haliotis kamtschatkana,Northern abalone,NA,0,70,2,DVM,TF,NA
 2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Haliotis kamtschatkana,Northern abalone,NA,0,80,1,DVM,TF,NA
 2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Haliotis kamtschatkana,Northern abalone,NA,0,100,1,DVM,TF,NA
@@ -2506,11 +2506,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,1,DVM,TF,NA
 2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,17,DVM,TF,NA
 2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,13,DVM,TF,NA
-2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,DVM,TF,NA
-2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,1,DVM,TF,NA
-2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,10,DVM,TF,NA
-2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,14,DVM,TF,NA
-2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,60,DVM,TF,NA
+2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,DVM,TF,NA
+2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,1,DVM,TF,NA
+2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,10,DVM,TF,NA
+2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,14,DVM,TF,NA
+2021-11-07,West Beach,"TF,GSB,KH",20:30:00,20:50:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,60,DVM,TF,NA
 2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,50,1,DVM,TF,NA
 2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,1,DVM,TF,NA
 2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,1,DVM,TF,NA
@@ -2547,15 +2547,15 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,18,DVM,TF,NA
 2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,13,DVM,TF,NA
 2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,50,1,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,4,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,9,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,9,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,3,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,4,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,3,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,100,1,DVM,TF,NA
-2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,246,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,4,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,9,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,9,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,3,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,4,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,3,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,100,1,DVM,TF,NA
+2022-01-30,North Beach,"BT,GSB,DVM,KH",16:44:00,17:20:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,246,DVM,TF,NA
 2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,60,1,GSB,TF,NA
 2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,GSB,TF,NA
 2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,2,GSB,TF,NA
@@ -2587,13 +2587,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,11,GSB,TF,NA
 2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,25,GSB,TF,NA
 2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,29,GSB,TF,NA
-2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,GSB,TF,NA
-2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,5,GSB,TF,NA
-2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,16,GSB,TF,NA
-2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,3,GSB,TF,NA
-2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,4,GSB,TF,NA
-2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,1,GSB,TF,NA
-2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,18,GSB,TF,NA
+2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,GSB,TF,NA
+2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,5,GSB,TF,NA
+2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,16,GSB,TF,NA
+2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,3,GSB,TF,NA
+2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,4,GSB,TF,NA
+2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,1,GSB,TF,NA
+2022-01-31,Fifth Beach,"BT,GSB,DVM,KH",18:55:00,19:30:00,0.3,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,18,GSB,TF,NA
 2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,90,1,GSB,TF,NA
 2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Dermasterias imbricata,Leather star,NA,0,40,4,GSB,TF,NA
 2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Dermasterias imbricata,Leather star,NA,0,50,1,GSB,TF,NA
@@ -2630,12 +2630,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Pisaster ochraceus,Ochre star,Adult,0,NA,210,GSB,TF,NA
 2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,9,GSB,TF,NA
 2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,25,GSB,TF,NA
-2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,3,GSB,TF,NA
-2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,7,GSB,TF,NA
-2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,9,GSB,TF,NA
-2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,14,GSB,TF,NA
-2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,7,GSB,TF,NA
-2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,208,GSB,TF,NA
+2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,3,GSB,TF,NA
+2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,7,GSB,TF,NA
+2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,9,GSB,TF,NA
+2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,14,GSB,TF,NA
+2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,7,GSB,TF,NA
+2022-02-01,West Beach,"BT,GSB,DVM,KH",19:20:00,19:50:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,208,GSB,TF,NA
 2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,60,1,TF,TF,NA
 2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,TF,TF,NA
 2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,2,TF,TF,NA
@@ -2678,15 +2678,15 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,10,1,TF,TF,NA
 2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,3,TF,TF,NA
 2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,7,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,3,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,4,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,12,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,11,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,5,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,4,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,100,1,TF,TF,NA
-2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,33,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,3,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,4,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,12,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,11,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,5,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,4,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,100,1,TF,TF,NA
+2022-05-15,West Beach,"TF,GSB,KR,DVM,OP",06:58:00,07:30:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,33,TF,TF,NA
 2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,50,1,TF,TF,NA
 2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,TF,TF,NA
 2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,130,1,TF,TF,NA
@@ -2748,12 +2748,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,TF,TF,NA
 2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,50,3,TF,TF,NA
 2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,60,1,TF,TF,NA
-2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,TF,TF,NA
-2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,10,TF,TF,NA
-2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,13,TF,TF,NA
-2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,7,TF,TF,NA
-2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,2,TF,TF,NA
-2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,660,TF,TF,NA
+2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,TF,TF,NA
+2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,10,TF,TF,NA
+2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,13,TF,TF,NA
+2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,7,TF,TF,NA
+2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,2,TF,TF,NA
+2022-05-17,North Beach,"TF,AG,AW,GSB,DVM,KR,OP",08:42:00,09:38:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,660,TF,TF,NA
 2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,70,2,TF,TF,NA
 2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,TF,TF,NA
 2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,130,1,TF,TF,NA
@@ -2786,10 +2786,10 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,20,5,TF,TF,NA
 2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,14,TF,TF,NA
 2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,11,TF,TF,NA
-2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,TF,TF,NA
-2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,TF,TF,NA
-2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,5,TF,TF,NA
-2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,3,TF,TF,NA
+2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,TF,TF,NA
+2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,TF,TF,NA
+2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,5,TF,TF,NA
+2022-05-18,Fifth Beach,"TF,GSB,AG,DVM,KR",09:14:00,09:52:00,0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,3,TF,TF,NA
 2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,40,2,ZM,TF,NA
 2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,50,1,ZM,TF,NA
 2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,ZM,TF,NA
@@ -2849,12 +2849,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,79,ZM,TF,NA
 2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,10,1,ZM,TF,NA
 2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,60,1,ZM,TF,NA
-2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,3,ZM,TF,NA
-2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,10,ZM,TF,NA
-2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,14,ZM,TF,NA
-2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,9,ZM,TF,NA
-2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,5,ZM,TF,NA
-2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,364,ZM,TF,NA
+2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,3,ZM,TF,NA
+2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,10,ZM,TF,NA
+2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,14,ZM,TF,NA
+2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,9,ZM,TF,NA
+2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,5,ZM,TF,NA
+2022-06-13,North Beach,"GSB, DVM, ZM, SE",06:44:00,07:04:00,0.2,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,364,ZM,TF,NA
 2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,40,1,DVM,TF,NA
 2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Dermasterias imbricata,Leather star,NA,0,20,1,DVM,TF,NA
 2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Dermasterias imbricata,Leather star,NA,0,50,4,DVM,TF,NA
@@ -2899,13 +2899,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,16,TF,TF,NA
 2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,10,2,DVM,TF,NA
 2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,DVM,TF,NA
-2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,DVM,TF,NA
-2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,8,DVM,TF,NA
-2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,14,DVM,TF,NA
-2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,12,DVM,TF,NA
-2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,5,DVM,TF,NA
-2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,DVM,TF,NA
-2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,25,DVM,TF,NA
+2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,DVM,TF,NA
+2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,8,DVM,TF,NA
+2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,14,DVM,TF,NA
+2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,12,DVM,TF,NA
+2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,5,DVM,TF,NA
+2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,DVM,TF,NA
+2022-06-14,West Beach,"ZM, DVM, SE, GS",07:04:00,07:34:00,0,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,25,DVM,TF,NA
 2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,ZM,TF,NA
 2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,110,1,ZM,TF,NA
 2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,140,1,ZM,TF,NA
@@ -2943,11 +2943,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,53,ZM,TF,NA
 2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,ZM,TF,NA
 2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,ZM,TF,NA
-2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,ZM,TF,NA
-2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,ZM,TF,NA
-2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,6,ZM,TF,NA
-2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,2,ZM,TF,NA
-2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,ZM,TF,NA
+2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,ZM,TF,NA
+2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,ZM,TF,NA
+2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,6,ZM,TF,NA
+2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,2,ZM,TF,NA
+2022-06-15,Fifth Beach,"ZM, DVM, SE, GSB",08:40:00,09:31:00,-0.1,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,ZM,TF,NA
 2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,60,1,AG,GSB,NA
 2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,80,1,AG,GSB,NA
 2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,90,1,AG,GSB,NA
@@ -3018,11 +3018,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,49,AG,GSB,NA
 2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,1,NA,3,AG,GSB,NA
 2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,AG,GSB,NA
-2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,8,AG,GSB,NA
-2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,10,AG,GSB,NA
-2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,7,AG,GSB,NA
-2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,5,AG,GSB,NA
-2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,666,AG,GSB,NA
+2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,8,AG,GSB,NA
+2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,10,AG,GSB,NA
+2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,7,AG,GSB,NA
+2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,5,AG,GSB,NA
+2022-09-09,North Beach,"TF, GSB, DVM, AG",06:37:00,07:23:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,666,AG,GSB,NA
 2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,180,1,AG,GSB,NA
 2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,200,1,AG,GSB,NA
 2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Dermasterias imbricata,Leather star,NA,0,40,1,AG,GSB,NA
@@ -3085,11 +3085,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,30,11,AG,GSB,NA
 2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,0,NA,10,AG,GSB,NA
 2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Pisaster ochraceus,Ochre star,Juvenile,1,NA,1,AG,GSB,NA
-2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,5,AG,GSB,NA
-2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,12,AG,GSB,NA
-2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,15,AG,GSB,NA
-2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,1,AG,GSB,NA
-2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,141,AG,GSB,NA
+2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,5,AG,GSB,NA
+2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,12,AG,GSB,NA
+2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,15,AG,GSB,NA
+2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,1,AG,GSB,NA
+2022-09-10,West Beach,"TF, GSB, DVM, AG",07:15:00,07:50:00,0.4,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,141,AG,GSB,NA
 2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,100,1,AG,GSB,NA
 2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,120,1,AG,GSB,NA
 2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,AG,GSB,NA
@@ -3144,11 +3144,11 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,1,NA,7,AG,GSB,NA
 2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,2,NA,2,AG,GSB,NA
 2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Pisaster ochraceus,Ochre star,Juvenile,3,NA,2,AG,GSB,NA
-2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,1,AG,GSB,NA
-2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,4,AG,GSB,NA
-2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,1,AG,GSB,NA
-2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,AG,GSB,NA
-2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,AG,GSB,NA
+2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,1,AG,GSB,NA
+2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,4,AG,GSB,NA
+2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,1,AG,GSB,NA
+2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,AG,GSB,NA
+2022-09-11,Fifth Beach,"TF, GSB, DVM, AG",08:06:00,08:30:00,0.5,NA,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,AG,GSB,NA
 2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Cryptochiton stelleri,Gumboot chiton,NA,0,40,1,TF,GSB,NA
 2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Cryptochiton stelleri,Gumboot chiton,NA,0,120,1,TF,GSB,NA
 2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Cryptochiton stelleri,Gumboot chiton,NA,0,150,1,TF,GSB,NA
@@ -3188,13 +3188,13 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Pisaster ochraceus,Ochre star,Juvenile,0,30,3,TF,GSB,NA
 2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Pisaster ochraceus,Ochre star,Juvenile,0,NA,4,TF,GSB,NA
 2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus droebachiensis,Green urchin,NA,0,10,1,TF,GSB,NA
-2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,TF,GSB,NA
-2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,TF,GSB,NA
-2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,2,TF,GSB,NA
-2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,2,TF,GSB,NA
-2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,3,TF,GSB,NA
-2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,1,TF,GSB,NA
-2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,145,TF,GSB,NA
+2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,TF,GSB,NA
+2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,TF,GSB,NA
+2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,2,TF,GSB,NA
+2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,2,TF,GSB,NA
+2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,3,TF,GSB,NA
+2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,1,TF,GSB,NA
+2022-11-25,West Beach,"TF,AC,CP,DVM",20:15:00,20:50:00,0.3,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,145,TF,GSB,NA
 2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Cryptochiton stelleri,Gumboot chiton,NA,0,NA,1,DVM,GSB,NA
 2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Dermasterias imbricata,Leather star,NA,0,40,1,DVM,GSB,NA
 2022-11-27,Fifth Beach,"AC, TF",22:06:00,22:28:00,0.5,1,Katharina tunicata,Leather chiton,NA,0,20,2,DVM,TF,NA
@@ -3222,12 +3222,12 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Pisaster ochraceus,Ochre star,Juvenile,0,20,4,DVM,GSB,NA
 2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Pisaster ochraceus,Ochre star,Juvenile,0,30,9,DVM,GSB,NA
 2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Pisaster ochraceus,Ochre star,Juvenile,0,NA,3,DVM,GSB,NA
-2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,1,DVM,GSB,NA
-2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,2,DVM,GSB,NA
-2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,2,DVM,GSB,NA
-2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,5,DVM,GSB,NA
-2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,2,DVM,GSB,NA
-2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,24,DVM,GSB,NA
+2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,1,DVM,GSB,NA
+2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,2,DVM,GSB,NA
+2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,2,DVM,GSB,NA
+2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,5,DVM,GSB,NA
+2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,2,DVM,GSB,NA
+2022-11-27,Fifth Beach,"TF,DVM,AC,CP",21:49:00,22:28:00,0.5,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,24,DVM,GSB,NA
 2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Dermasterias imbricata,Leather star,NA,0,40,1,TF,GSB,NA
 2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Dermasterias imbricata,Leather star,NA,0,50,2,TF,GSB,NA
 2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Haliotis kamtschatkana,Northern abalone,NA,0,20,1,TF,GSB,NA
@@ -3269,15 +3269,15 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus droebachiensis,Green urchin,NA,0,20,1,TF,GSB,NA
 2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus droebachiensis,Green urchin,NA,0,30,1,TF,GSB,NA
 2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus droebachiensis,Green urchin,NA,0,60,1,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,20,1,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,30,2,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,40,3,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,50,7,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,60,10,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,70,3,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,80,2,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,90,2,TF,GSB,NA
-2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,PurpleUrchin,NA,0,NA,418,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,20,1,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,30,2,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,40,3,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,50,7,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,60,10,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,70,3,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,80,2,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,90,2,TF,GSB,NA
+2022-11-28,North Beach,"AC, TF, DVM",21:32:00,22:37:00,0.7,1,Strongylocentrotus purpuratus,Purple urchin,NA,0,NA,418,TF,GSB,NA
 2023-02-16,West Beach,"KH,DVM,KB",15:49,16:00,1.5,1.5,Pisaster ochraceus,Ochre star,Juvenile,0,30,8,KH,TF,NA
 2023-02-16,West Beach,"KH,DVM,KB",15:49,16:00,1.5,1.5,Pisaster ochraceus,Ochre star,Adult,0,40,15,KH,TF,NA
 2023-02-16,West Beach,"KH,DVM,KB",15:49,16:00,1.5,1.5,Pisaster ochraceus,Ochre star,Adult,0,50,18,KH,TF,NA
