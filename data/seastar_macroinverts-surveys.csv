@@ -3841,7 +3841,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-02-16,West Beach,"KB, DVM, KH",15:55,16:07,1.5,1.5,Katharina tunicata,Leather chiton,NA,0,70,1,KH,TF,NA
 2023-02-16,West Beach,"KB, DVM, KH",15:55,16:07,1.5,1.5,Katharina tunicata,Leather chiton,NA,0,80,4,KH,TF,NA
 2023-02-16,West Beach,"KB, DVM, KH",15:55,16:07,1.5,1.5,Katharina tunicata,Leather chiton,NA,0,90,1,KH,TF,NA
-2023-02-16,West Beach,"KB, DVM, KH",15:55,16:07,1.5,1.5,Katharina tunicata,Leather chiton,NA,0,not measured,3,KH,TF,NA
+2023-02-16,West Beach,"KB, DVM, KH",15:55,16:07,1.5,1.5,Katharina tunicata,Leather chiton,NA,0,NA,3,KH,TF,NA
 2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,20,5,KH,TF,NA
 2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,30,9,KH,TF,NA
 2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,40,8,KH,TF,NA
@@ -3851,7 +3851,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,80,5,KH,TF,NA
 2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,90,10,KH,TF,NA
 2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,100,2,KH,TF,NA
-2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,not measured,196,KH,TF,NA
+2023-02-17,Fifth Beach,"GSB, DVM, KH",16:58,17:12,NA,NA,Katharina tunicata,Leather chiton,NA,0,NA,196,KH,TF,NA
 2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,20,3,KB,TF,NA
 2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,30,5,KB,TF,NA
 2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,40,9,KB,TF,NA
@@ -3862,7 +3862,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,90,7,KB,TF,NA
 2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,100,1,KB,TF,NA
 2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,110,1,KB,TF,NA
-2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,not measured,233,KB,TF,NA
+2023-02-18,North Beach,"DVM,KH,GSB,KB",17:20,17:25,0.4,0.4,Katharina tunicata,Leather chiton,NA,0,NA,233,KB,TF,NA
 2023-05-06,West Beach,"GSB,TF",08:46,09:00,0.4,1,Katharina tunicata,Leather chiton,NA,0,20,1,DVM,TF,NA
 2023-05-06,West Beach,"GSB,TF",08:46,09:00,0.4,1,Katharina tunicata,Leather chiton,NA,0,30,7,DVM,TF,NA
 2023-05-06,West Beach,"GSB,TF",08:46,09:00,0.4,1,Katharina tunicata,Leather chiton,NA,0,40,2,DVM,TF,NA
@@ -3882,7 +3882,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-05-08,Fifth Beach,"TF, AG",16:50,17:13,0.4,0.47,Katharina tunicata,Leather chiton,NA,0,90,9,AG,TF,NA
 2023-05-08,Fifth Beach,"TF, AG",17:50,18:13,0.4,0.47,Katharina tunicata,Leather chiton,NA,0,100,3,AG,TF,NA
 2023-05-08,Fifth Beach,"TF, AG",18:50,19:13,0.4,0.47,Katharina tunicata,Leather chiton,NA,0,110,2,AG,TF,NA
-2023-05-08,Fifth Beach,"TF, AG",19:50,20:13,0.4,0.47,Katharina tunicata,Leather chiton,NA,0,not measured,18,AG,TF,NA
+2023-05-08,Fifth Beach,"TF, AG",19:50,20:13,0.4,0.47,Katharina tunicata,Leather chiton,NA,0,NA,18,AG,TF,NA
 2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,20,1,DVM,TF,NA
 2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,30,3,DVM,TF,NA
 2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,40,9,DVM,TF,NA
@@ -3893,7 +3893,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,90,3,DVM,TF,NA
 2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,100,1,DVM,TF,NA
 2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,110,1,DVM,TF,NA
-2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,not measured,87,DVM,TF,NA
+2023-05-09,North Beach,DVM,10:00,10:13,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,NA,87,DVM,TF,NA
 2023-06-03,West Beach,"DVM, CP, HE",07:13,07:17,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,30,5,AO,TF,NA
 2023-06-03,West Beach,"DVM, CP, HE",07:13,07:17,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,40,9,AO,TF,NA
 2023-06-03,West Beach,"DVM, CP, HE",07:13,07:17,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,50,5,AO,TF,NA
@@ -3910,7 +3910,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-06-05,Fifth Beach,"HE, AO, CP",09:19,09:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,90,9,AO,TF,NA
 2023-06-05,Fifth Beach,"HE, AO, CP",09:19,09:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,100,10,AO,TF,NA
 2023-06-05,Fifth Beach,"HE, AO, CP",09:19,09:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,120,3,AO,TF,NA
-2023-06-05,Fifth Beach,"HE, AO, CP",09:19,09:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,not measured,13,AO,TF,NA
+2023-06-05,Fifth Beach,"HE, AO, CP",09:19,09:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,NA,13,AO,TF,NA
 2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,10,1,CP,TF,NA
 2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,20,4,CP,TF,NA
 2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,30,4,CP,TF,NA
@@ -3922,7 +3922,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,90,8,CP,TF,NA
 2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,100,2,CP,TF,NA
 2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,110,2,CP,TF,NA
-2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,not measured,103,CP,TF,NA
+2023-06-06,North Beach,"AO, CP, DVM",09:55,10:16,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,NA,103,CP,TF,NA
 2023-08-30,West Beach,"TF,ZM",07:47,09:08,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,20,3,TF,TF,NA
 2023-08-30,West Beach,"TF,ZM",07:47,09:08,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,30,11,TF,TF,NA
 2023-08-30,West Beach,"TF,ZM",07:47,09:08,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,40,5,TF,TF,NA
@@ -3939,7 +3939,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-08-31,Fifth Beach,"TF,DCO,GSB",07:32,08:37,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,90,2,TF,TF,NA
 2023-08-31,Fifth Beach,"TF,DCO,GSB",07:32,08:37,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,100,5,TF,TF,NA
 2023-08-31,Fifth Beach,"TF,DCO,GSB",07:32,08:37,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,110,3,TF,TF,NA
-2023-08-31,Fifth Beach,"TF,DCO,GSB",07:32,08:37,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,not measured,71,TF,TF,NA
+2023-08-31,Fifth Beach,"TF,DCO,GSB",07:32,08:37,0.2,0.2,Katharina tunicata,Leather chiton,NA,0,NA,71,TF,TF,NA
 2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,20,1,DVM,TF,NA
 2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,30,4,DVM,TF,NA
 2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,40,5,DVM,TF,NA
@@ -3949,7 +3949,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,80,7,DVM,TF,NA
 2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,90,4,DVM,TF,NA
 2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,100,1,DVM,TF,NA
-2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,not measured,446,DVM,TF,NA
+2023-09-01,North Beach,"TF,DVM,GSB,DCO",08:20,08:40,0.3,0.3,Katharina tunicata,Leather chiton,NA,0,NA,446,DVM,TF,NA
 2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,20,2,TF,TF,NA
 2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,30,3,TF,TF,NA
 2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,40,4,TF,TF,NA
@@ -3959,7 +3959,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,80,5,TF,TF,NA
 2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,90,7,TF,TF,NA
 2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,100,4,TF,TF,NA
-2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,not measured,147,TF,TF,NA
+2023-11-24,Fifth Beach,"GSB,TF",16:43,17:08,0.9,1.2,Katharina tunicata,Leather chiton,NA,0,NA,147,TF,TF,NA
 2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,20,2,DVM,KB,NA
 2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,30,7,DVM,KB,NA
 2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,40,17,DVM,KB,NA
@@ -3967,7 +3967,7 @@ date,site,observer,start_time,end_time,tide_height_at_sampling_time,effective_ti
 2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,60,9,DVM,KB,NA
 2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,70,8,DVM,KB,NA
 2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,80,7,DVM,KB,NA
-2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,not measured,208,KB,KB,NA
+2023-11-25,North Beach,DVM,17:23,17:43,0.6,1.3,Katharina tunicata,Leather chiton,NA,0,NA,208,KB,KB,NA
 2023-11-26,West Beach,"TF,DVM",17:33,17:43,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,20,3,TF,KB,NA
 2023-11-26,West Beach,"TF,DVM",17:33,17:43,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,30,9,TF,KB,NA
 2023-11-26,West Beach,"TF,DVM",17:33,17:43,0.5,0.5,Katharina tunicata,Leather chiton,NA,0,40,8,TF,KB,NA

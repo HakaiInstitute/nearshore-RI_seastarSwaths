@@ -10,7 +10,7 @@ seastar_macroinverts-surveys.csv,scientific_name,character,NA,Taxonomic name for
 seastar_macroinverts-surveys.csv,description,character,NA,"Common vernacular description of what a given code represents (i.e. acorn barnacle, dead acorn barnacle)"
 seastar_macroinverts-surveys.csv,life_stage,character,NA,Life stage category for observed Pisaster ochraceous
 seastar_macroinverts-surveys.csv,disease_status,character,NA,Category reflecting healthiness or stage of wasting disease
-seastar_macroinverts-surveys.csv,size,numeric,mm,Size category
+seastar_macroinverts-surveys.csv,size_class,numeric,mm,"Size category of radius (sea stars), total length (abalone & Cryptochiton stelleri), or test width (sea urchins)"
 seastar_macroinverts-surveys.csv,count,numeric,NA,The number of individuals of a given size category in the swath
 seastar_macroinverts-surveys.csv,entered_by,character,NA,The individual(s) who entered the data into the spreadsheet
 seastar_macroinverts-surveys.csv,checked_by,character,NA,The individual(s) who quality controlled the data
