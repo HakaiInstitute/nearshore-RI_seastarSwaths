@@ -8,6 +8,12 @@ and this project adheres to [Semantic Versioning]
 ## Unreleased
 - Survey data from February 2025
 
+## [3.2.1] - 2025-03-28
+### Updated
+- Updated README file
+- Added Quadra Island survey data to the dataset.
+- Updated Data Dictionary with Region column
+
 ## [3.2.0] - 2025-03-27
 ### Updated
 - Updated README file
