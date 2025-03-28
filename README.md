@@ -23,11 +23,10 @@ This data package is a component of the Hakai Institute’s Nearshore research a
 The Rocky Intertidal program is a subset of Hakai Nearshore, and is designed to quantify change in rocky shore intertidal habitats and their associated communities. Please see the list of all Rocky Intertidal program data packages here: 
 https://docs.google.com/document/d/11uqZNnwSabw0thcbntlTkZpVgVAkjPDJS17_ur6W7S8/edit
 
-## Methods
+## Survey Methods
 
 This data package collects data and information relating to seastar 
-population surveys conducted in the rocky intertidal of Calvert Island BC, 
-starting in 2018. Counts and size measurements of sea stars and large macroinvertebrates were done in irregular plots at each site. For a detailed description, please see the Rocky Intertidal protocol contained in this dataset.
+population surveys conducted in the rocky intertidal of Calvert Island BC (3 sites, from 2018-), and Quadra Island BC (3 sites, from 2021-). Counts and size measurements of sea stars and large macroinvertebrates were done in irregular plots at each site. For a detailed description, please see the Rocky Intertidal protocol contained in this dataset.
 
 ## Resources
 

@@ -1,4 +1,5 @@
 table,variable,category,units,description
+seastar_macroinverts-surveys.csv,region,character,NA,Region of British Columbia where the survey was performed. Calvert Island or Quadra Island
 seastar_macroinverts-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
 seastar_macroinverts-surveys.csv,site,character,NA,Rocky intertidal site where survey was conducted
 seastar_macroinverts-surveys.csv,observer,character,NA,The individual(s) who conducted the survey
