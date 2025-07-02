@@ -5,7 +5,7 @@
 <img src=docs/logos/hakai-logo.png />
 </div>
 
-This data is licensed under a Creative Commons Attribution 4.0 International License (CC-BY).
+This data is licensed under a Creative Commons Attribution 4.0 International License (CC-BY). This license allows you to Share and Adapt the material contained in this dataset assuming proper Attribution is given. To view a copy of this license, see the text copy provided (LICENSE.txt) in the docs folder, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 In light of the effort required to create data packages, we request that in addition to following the CC-BY license terms, that users 1) respect the data providers, and provide helpful feedback on data quality, and 2) communicate and/or collaborate with Hakai Nearshore researchers if you are considering using this dataset for manuscripts or other forms of reporting.
 
